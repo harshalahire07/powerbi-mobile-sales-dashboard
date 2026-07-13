@@ -7,7 +7,7 @@ An interactive **Mobile Sales Analytics Dashboard** built using **Microsoft Powe
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard-preview.png" alt="Mobile Sales Analytics Dashboard" width="100%">
+  <img src="Mobile Sales Dashboard.png" alt="Mobile Sales Analytics Dashboard" width="100%">
 </p>
 
 ---
